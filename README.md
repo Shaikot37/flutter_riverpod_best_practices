@@ -87,7 +87,7 @@ Feel free to contribute by submitting pull requests or opening issues.
 **Khandakar Amir Hamza**  
 👨‍💻 Mobile App Developer (Flutter)  
 📍 Dhaka, Bangladesh  
-🔗 [LinkedIn](https://www.linkedin.com/in/khandakar-amir-hamza)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kh1amirhamza)  
 🔗 [GitHub](https://github.com/kh1amirhamza)
 
 I specialize in building scalable, maintainable, and performance-optimized mobile applications using Flutter. Passionate about writing clean code and sharing knowledge with the community. Always open to collaboration and learning new technologies.
