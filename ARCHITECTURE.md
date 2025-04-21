@@ -7,7 +7,6 @@ This project follows a Clean Architecture approach for large and scalable Flutte
 - 🧊 **Freezed** – Immutable Models & Sealed Classes
 - 🪝 **Flutter Hooks** – Widget Lifecycle Simplification
 - 🧭 **go_router** – Declarative Routing
-
 ---
 
 ## 🧱 Layered Folder Structure
